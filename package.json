@@ -1,6 +1,6 @@
 {
-  "name": "facerecognitionbrain",
-  "homepage": "https://techgenius-karan.github.io/face-recognition-app",
+  "name": "smartbrain",
+  "homepage": "https://techgenius-karan.github.io/smart-brain",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
