@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/face-recognition-app/static/css/main.ddc5e209.css",
-    "main.js": "/face-recognition-app/static/js/main.cee6d250.js",
-    "index.html": "/face-recognition-app/index.html",
-    "main.ddc5e209.css.map": "/face-recognition-app/static/css/main.ddc5e209.css.map",
-    "main.cee6d250.js.map": "/face-recognition-app/static/js/main.cee6d250.js.map"
+    "main.css": "/smart-brain/static/css/main.ddc5e209.css",
+    "main.js": "/smart-brain/static/js/main.cee6d250.js",
+    "index.html": "/smart-brain/index.html",
+    "main.ddc5e209.css.map": "/smart-brain/static/css/main.ddc5e209.css.map",
+    "main.cee6d250.js.map": "/smart-brain/static/js/main.cee6d250.js.map"
   },
   "entrypoints": [
     "static/css/main.ddc5e209.css",
